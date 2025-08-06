@@ -1,4 +1,6 @@
 # LLM-aided screening for GEO studies
+Presented during JSM 2025: Large language models empower meta-analysis in the big data era
+
 <img src="app.png" alt="Application" width="500">
 
 # Installation
