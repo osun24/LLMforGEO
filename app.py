@@ -528,7 +528,7 @@ class MainWindow(QMainWindow):
         # NEW: Allow user-adjustable height for text boxes
         self.batch_system_prompt_edit.setMinimumHeight(50)
         self.batch_system_prompt_edit.setPlainText(
-            "You are an expert in analyzing clinical datasets for inclusion in a meta-analysis on adjuvant chemotherapy (ACT) in NSCLC (non-small cell lung cancer). Your task is to determine whether the provided dataset includes relevant adjuvant chemotherapy (ACT) data for inclusion in the meta-dataset."
+            "You are an oncology expert evaluating clinical datasets based on inclusion/exclusion criteria. Respond concisely and clearly, returning answers in the same numbered list format as the questions."
         )
         self.batch_user_prompt_edit = QTextEdit()
         # NEW: Allow user-adjustable height for text boxes
