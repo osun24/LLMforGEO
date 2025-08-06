@@ -1,10 +1,14 @@
 # Installation
 ## Create virtual environment (recommended)
+```cli
 python -m venv llm_geo_env
 source llm_geo_env/bin/activate  # On Windows: llm_geo_env\Scripts\activate
+```
 
 ## Install dependencies
+```
 pip install -r requirements.txt
+```
 
 # Requirements
 - Python 3.8+ (developed using 3.10.9)
