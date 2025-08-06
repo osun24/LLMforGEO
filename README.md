@@ -1,4 +1,5 @@
 # LLM-aided screening for GEO studies
+<img src="app.png" alt="Application" width="500">
 
 # Installation
 ## Create virtual environment (recommended)
