@@ -1,3 +1,6 @@
+# LLM-aided screening for GEO studies
+<img src="path/to/image.png" alt="Description" width="400">
+
 # Installation
 ## Create virtual environment (recommended)
 ```cli
