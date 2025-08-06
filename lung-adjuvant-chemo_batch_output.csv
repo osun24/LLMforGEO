@@ -1,0 +1,6 @@
+custom_id,error,model,Q1,Q2,Q3
+samples_table_GSE277168.csv,,gpt-4o-mini-2024-07-18,,,
+samples_table_GSE271130.csv,,gpt-4o-mini-2024-07-18,**Type of Data**: The dataset primarily consists of experimental data from cell lines (NCI-H2023) rather than clinical data from actual NSCLC patients undergoing treatment. Meta-analyses typically require clinical trial data or observational studies that include patient outcomes related to treatment.,"**Adjuvant Chemotherapy Information**: There is no mention of adjuvant chemotherapy (ACT) in the dataset. The focus is on the effects of miRNA mimics on cell lines, which does not provide information on the efficacy or outcomes of ACT in NSCLC patients.","**Relevance to Meta-Analysis**: Since the goal of the meta-analysis is to evaluate the impact of ACT on NSCLC, the absence of treatment data related to ACT means this dataset does not contribute relevant information."
+samples_table_GSE296415.csv,,gpt-4o-mini-2024-07-18,Should it be included?**,**Treatment Information**: The dataset should provide information on adjuvant chemotherapy (ACT) received by the patients.,"**Clinical Outcomes**: The dataset should ideally include clinical outcomes related to the treatment, such as survival rates or recurrence."
+samples_table_GSE202417.csv,,gpt-4o-mini-2024-07-18,,,
+samples_table_GSE179192.csv,,gpt-4o-mini-2024-07-18,,,

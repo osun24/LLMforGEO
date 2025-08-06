@@ -1,0 +1,13 @@
+GPL13497_Group,GPL13497_Accession,GPL13497_Title,GPL13497_Source name,GPL13497_Disease,GPL13497_Cell line,GPL13497_Genotype,GPL13497_Treatment,FTP_Group,FTP_Accession,FTP_Title,FTP_Source name,FTP_Disease,FTP_Cell line,FTP_Genotype,FTP_Treatment
+-,GSM8515732,A549Lsub ctr_1,A549Lsub ctr,non-small cell lung cancer,A549 adenocarcinoma cell line,Lsub,ctr,-,GSM8515732,A549Lsub ctr_1,A549Lsub ctr,non-small cell lung cancer,A549 adenocarcinoma cell line,Lsub,ctr
+-,GSM8515733,A549Lsub ctr_2,A549Lsub ctr,non-small cell lung cancer,A549 adenocarcinoma cell line,Lsub,ctr,-,GSM8515733,A549Lsub ctr_2,A549Lsub ctr,non-small cell lung cancer,A549 adenocarcinoma cell line,Lsub,ctr
+-,GSM8515734,A549Lsub ctr_3,A549Lsub ctr,non-small cell lung cancer,A549 adenocarcinoma cell line,Lsub,ctr,-,GSM8515734,A549Lsub ctr_3,A549Lsub ctr,non-small cell lung cancer,A549 adenocarcinoma cell line,Lsub,ctr
+-,GSM8515735,A549Lsub+TGFb_1,A549Lsub+TGFb,non-small cell lung cancer,A549 adenocarcinoma cell line,Lsub,TGFb,-,GSM8515735,A549Lsub+TGFb_1,A549Lsub+TGFb,non-small cell lung cancer,A549 adenocarcinoma cell line,Lsub,TGFb
+-,GSM8515736,A549Lsub+TGFb_2,A549Lsub+TGFb,non-small cell lung cancer,A549 adenocarcinoma cell line,Lsub,TGFb,-,GSM8515736,A549Lsub+TGFb_2,A549Lsub+TGFb,non-small cell lung cancer,A549 adenocarcinoma cell line,Lsub,TGFb
+-,GSM8515737,A549Lsub+TGFb_3,A549Lsub+TGFb,non-small cell lung cancer,A549 adenocarcinoma cell line,Lsub,TGFb,-,GSM8515737,A549Lsub+TGFb_3,A549Lsub+TGFb,non-small cell lung cancer,A549 adenocarcinoma cell line,Lsub,TGFb
+-,GSM8515738,A549WT+TGFb_1,A549WT+TGFb,non-small cell lung cancer,A549 adenocarcinoma cell line,WT,TGFb,-,GSM8515738,A549WT+TGFb_1,A549WT+TGFb,non-small cell lung cancer,A549 adenocarcinoma cell line,WT,TGFb
+-,GSM8515739,A549WT+TGFb_2,A549WT+TGFb,non-small cell lung cancer,A549 adenocarcinoma cell line,WT,TGFb,-,GSM8515739,A549WT+TGFb_2,A549WT+TGFb,non-small cell lung cancer,A549 adenocarcinoma cell line,WT,TGFb
+-,GSM8515740,A549WT+TGFb_3,A549WT+TGFb,non-small cell lung cancer,A549 adenocarcinoma cell line,WT,TGFb,-,GSM8515740,A549WT+TGFb_3,A549WT+TGFb,non-small cell lung cancer,A549 adenocarcinoma cell line,WT,TGFb
+-,GSM8515741,A549WT_ctr_1,A549WT,non-small cell lung cancer,A549 adenocarcinoma cell line,WT,ctr,-,GSM8515741,A549WT_ctr_1,A549WT,non-small cell lung cancer,A549 adenocarcinoma cell line,WT,ctr
+-,GSM8515742,A549WT_ctr_2,A549WT,non-small cell lung cancer,A549 adenocarcinoma cell line,WT,ctr,-,GSM8515742,A549WT_ctr_2,A549WT,non-small cell lung cancer,A549 adenocarcinoma cell line,WT,ctr
+-,GSM8515743,A549WT_ctr_3,A549WT,non-small cell lung cancer,A549 adenocarcinoma cell line,WT,ctr,-,GSM8515743,A549WT_ctr_3,A549WT,non-small cell lung cancer,A549 adenocarcinoma cell line,WT,ctr

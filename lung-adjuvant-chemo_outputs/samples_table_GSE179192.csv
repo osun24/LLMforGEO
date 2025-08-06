@@ -1,0 +1,25 @@
+GPL21185_Group,GPL21185_Accession,GPL21185_Title,GPL21185_Source name,GPL21185_Treatment,GPL21185_Cell line,FTP_Group,FTP_Accession,FTP_Title,FTP_Source name,FTP_Treatment,FTP_Cell line
+-,GSM5411274,PC9_Control_1,Untreated control PC9 cell line,Control,PC9,-,GSM5411274,PC9_Control_1,Untreated control PC9 cell line,Control,PC9
+-,GSM5411275,PC9_Control_2,Untreated control PC9 cell line,Control,PC9,-,GSM5411275,PC9_Control_2,Untreated control PC9 cell line,Control,PC9
+-,GSM5411276,PC9_Control_3,Untreated control PC9 cell line,Control,PC9,-,GSM5411276,PC9_Control_3,Untreated control PC9 cell line,Control,PC9
+-,GSM5411277,PC9-SORA-1d-1,Sorafenib-treated (1 day) PC9 cell line,Sorafenib - 1 day,PC9,-,GSM5411277,PC9-SORA-1d-1,Sorafenib-treated (1 day) PC9 cell line,Sorafenib - 1 day,PC9
+-,GSM5411278,PC9-SORA-1d-2,Sorafenib-treated (1 day) PC9 cell line,Sorafenib - 1 day,PC9,-,GSM5411278,PC9-SORA-1d-2,Sorafenib-treated (1 day) PC9 cell line,Sorafenib - 1 day,PC9
+-,GSM5411279,PC9-SORA-1d-3,Sorafenib-treated (1 day) PC9 cell line,Sorafenib - 1 day,PC9,-,GSM5411279,PC9-SORA-1d-3,Sorafenib-treated (1 day) PC9 cell line,Sorafenib - 1 day,PC9
+-,GSM5411280,PC9-SORA-2d-1,Sorafenib-treated (2 days) PC9 cell line,Sorafenib - 2 days,PC9,-,GSM5411280,PC9-SORA-2d-1,Sorafenib-treated (2 days) PC9 cell line,Sorafenib - 2 days,PC9
+-,GSM5411281,PC9-SORA-2d-2,Sorafenib-treated (2 days) PC9 cell line,Sorafenib - 2 days,PC9,-,GSM5411281,PC9-SORA-2d-2,Sorafenib-treated (2 days) PC9 cell line,Sorafenib - 2 days,PC9
+-,GSM5411282,PC9-SORA-2d-3,Sorafenib-treated (2 days) PC9 cell line,Sorafenib - 2 days,PC9,-,GSM5411282,PC9-SORA-2d-3,Sorafenib-treated (2 days) PC9 cell line,Sorafenib - 2 days,PC9
+-,GSM5411283,PC9-SORA-4d-1,Sorafenib-treated (4 day) PC9 cell line,Sorafenib - 4 days,PC9,-,GSM5411283,PC9-SORA-4d-1,Sorafenib-treated (4 day) PC9 cell line,Sorafenib - 4 days,PC9
+-,GSM5411284,PC9-SORA-4d-2,Sorafenib-treated (4 day) PC9 cell line,Sorafenib - 4 days,PC9,-,GSM5411284,PC9-SORA-4d-2,Sorafenib-treated (4 day) PC9 cell line,Sorafenib - 4 days,PC9
+-,GSM5411285,PC9-SORA-4d-3,Sorafenib-treated (4 day) PC9 cell line,Sorafenib - 4 days,PC9,-,GSM5411285,PC9-SORA-4d-3,Sorafenib-treated (4 day) PC9 cell line,Sorafenib - 4 days,PC9
+-,GSM5411286,PC9-OSIM-1d-1,Osimertinib-treated (1 day) PC9 cell line,Osimertinib - 1 day,PC9,-,GSM5411286,PC9-OSIM-1d-1,Osimertinib-treated (1 day) PC9 cell line,Osimertinib - 1 day,PC9
+-,GSM5411287,PC9-OSIM-1d-2,Osimertinib-treated (1 day) PC9 cell line,Osimertinib - 1 day,PC9,-,GSM5411287,PC9-OSIM-1d-2,Osimertinib-treated (1 day) PC9 cell line,Osimertinib - 1 day,PC9
+-,GSM5411288,PC9-OSIM-1d-3,Osimertinib-treated (1 day) PC9 cell line,Osimertinib - 1 day,PC9,-,GSM5411288,PC9-OSIM-1d-3,Osimertinib-treated (1 day) PC9 cell line,Osimertinib - 1 day,PC9
+-,GSM5411289,PC9-OSIM-2d-1,Osimertinib-treated (2 days) PC9 cell line,Osimertinib - 2 days,PC9,-,GSM5411289,PC9-OSIM-2d-1,Osimertinib-treated (2 days) PC9 cell line,Osimertinib - 2 days,PC9
+-,GSM5411290,PC9-OSIM-2d-2,Osimertinib-treated (2 days) PC9 cell line,Osimertinib - 2 days,PC9,-,GSM5411290,PC9-OSIM-2d-2,Osimertinib-treated (2 days) PC9 cell line,Osimertinib - 2 days,PC9
+-,GSM5411291,PC9-OSIM-2d-3,Osimertinib-treated (2 days) PC9 cell line,Osimertinib - 2 days,PC9,-,GSM5411291,PC9-OSIM-2d-3,Osimertinib-treated (2 days) PC9 cell line,Osimertinib - 2 days,PC9
+-,GSM5411292,PC9-OSIM-4d-1,Osimertinib-treated (4 days) PC9 cell line,Osimertinib - 4 days,PC9,-,GSM5411292,PC9-OSIM-4d-1,Osimertinib-treated (4 days) PC9 cell line,Osimertinib - 4 days,PC9
+-,GSM5411293,PC9-OSIM-4d-2,Osimertinib-treated (4 days) PC9 cell line,Osimertinib - 4 days,PC9,-,GSM5411293,PC9-OSIM-4d-2,Osimertinib-treated (4 days) PC9 cell line,Osimertinib - 4 days,PC9
+-,GSM5411294,PC9-OSIM-4d-3,Osimertinib-treated (4 days) PC9 cell line,Osimertinib - 4 days,PC9,-,GSM5411294,PC9-OSIM-4d-3,Osimertinib-treated (4 days) PC9 cell line,Osimertinib - 4 days,PC9
+-,GSM5411295,PC9-SORA-OSIM-2d-1,Sorafenib and Osimertinib co-treated (2 days) PC9 cell line,Sorafenib and Osimertinib - 2 days,PC9,-,GSM5411295,PC9-SORA-OSIM-2d-1,Sorafenib and Osimertinib co-treated (2 days) PC9 cell line,Sorafenib and Osimertinib - 2 days,PC9
+-,GSM5411296,PC9-SORA-OSIM-2d-2,Sorafenib and Osimertinib co-treated (2 days) PC9 cell line,Sorafenib and Osimertinib - 2 days,PC9,-,GSM5411296,PC9-SORA-OSIM-2d-2,Sorafenib and Osimertinib co-treated (2 days) PC9 cell line,Sorafenib and Osimertinib - 2 days,PC9
+-,GSM5411297,PC9-SORA-OSIM-2d-3,Sorafenib and Osimertinib co-treated (2 days) PC9 cell line,Sorafenib and Osimertinib - 2 days,PC9,-,GSM5411297,PC9-SORA-OSIM-2d-3,Sorafenib and Osimertinib co-treated (2 days) PC9 cell line,Sorafenib and Osimertinib - 2 days,PC9

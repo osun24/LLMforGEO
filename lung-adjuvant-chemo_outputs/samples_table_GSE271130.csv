@@ -1,0 +1,7 @@
+GPL23159_Group,GPL23159_Accession,GPL23159_Title,GPL23159_Source name,GPL23159_Tumor type,GPL23159_Tissue,GPL23159_Cell line,FTP_Group,FTP_Accession,FTP_Title,FTP_Source name,FTP_Tumor type,FTP_Tissue,FTP_Cell line
+-,GSM8370224,H2023_CTRL mimic_A,H2023 transfected with mimic control,adenocarcinoma,Lung,NCI-H2023,-,GSM8370224,H2023_CTRL mimic_A,H2023 transfected with mimic control,adenocarcinoma,Lung,NCI-H2023
+-,GSM8370225,H2023_ mimic miR29a_A,H2023 transfected with mimic miR-29a-3p,adenocarcinoma,Lung,NCI-H2023,-,GSM8370225,H2023_ mimic miR29a_A,H2023 transfected with mimic miR-29a-3p,adenocarcinoma,Lung,NCI-H2023
+-,GSM8370226,H2023_ mimic miR223_A,H2023 transfected with mimic miR-223-3p,adenocarcinoma,Lung,NCI-H2023,-,GSM8370226,H2023_ mimic miR223_A,H2023 transfected with mimic miR-223-3p,adenocarcinoma,Lung,NCI-H2023
+-,GSM8370227,H2023_CTRL mimic_B,H2023 transfected with mimic control,adenocarcinoma,Lung,NCI-H2023,-,GSM8370227,H2023_CTRL mimic_B,H2023 transfected with mimic control,adenocarcinoma,Lung,NCI-H2023
+-,GSM8370228,H2023_ mimic miR29a_B,H2023 transfected with mimic miR-29a-3p,adenocarcinoma,Lung,NCI-H2023,-,GSM8370228,H2023_ mimic miR29a_B,H2023 transfected with mimic miR-29a-3p,adenocarcinoma,Lung,NCI-H2023
+-,GSM8370229,H2023_ mimic miR223_B,H2023 transfected with mimic miR-223-3p,adenocarcinoma,Lung,NCI-H2023,-,GSM8370229,H2023_ mimic miR223_B,H2023 transfected with mimic miR-223-3p,adenocarcinoma,Lung,NCI-H2023
